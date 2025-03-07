@@ -146,13 +146,13 @@ span {
 }
 }
 @media screen and (max-width: 450px){
-    img{width: 100%;
+    img{width: 50%;
         height: 100%;
         object-fit: cover;
         display: block;
         flex-direction: column;
     }
-    .container {max-width: 100%;
+    .container {max-width: 50%;
         height: 100%;
         object-fit: cover;
         display: block;
