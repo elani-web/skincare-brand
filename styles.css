@@ -128,8 +128,8 @@ span {
     
 }
 @media screen and (min-width:768px) and (max-width: 1023px) {
-  img{width: 50%;} 
-  .container .card {max-width: 150px}
+  img{width: 100%;} 
+  .container {max-width: 150px}
 }
  @media screen and (max-width: 610px) {
     img{width: 100%;
