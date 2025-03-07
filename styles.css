@@ -165,11 +165,13 @@ span {
     }
     .container .card {
         height: 150px;
+        transition: 0.01s ease-in-out;
     }
     header {
         max-width: 100%;
         flex-wrap: wrap;
         flex-direction: column;
+        text-align: center;
     }
     .nav-item {
        padding: 0 15px;
