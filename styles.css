@@ -136,10 +136,12 @@ span {
         height: 100%;
         object-fit: cover;
         display: block;
+        flex-direction: column;
     }
     .container .card {max-width: 100%;
         height: 100%;
         object-fit: cover;
         display: block;
+        flex-direction: column;
 }
 }
